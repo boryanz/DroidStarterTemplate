@@ -1,4 +1,4 @@
-package com.android.droidstartertemplate.ui.theme
+package com.android.droidstartertemplatemvvm.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

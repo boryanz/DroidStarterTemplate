@@ -1,4 +1,4 @@
-package com.android.droidstartertemplate
+package com.android.droidstartertemplatemvvm
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

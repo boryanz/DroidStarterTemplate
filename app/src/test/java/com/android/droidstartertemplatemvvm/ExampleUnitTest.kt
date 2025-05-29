@@ -1,4 +1,4 @@
-package com.android.droidstartertemplate
+package com.android.droidstartertemplatemvvm
 
 import org.junit.Test
 
