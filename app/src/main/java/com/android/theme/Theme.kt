@@ -1,4 +1,4 @@
-package com.android.droidstartertemplatemvvm.ui.theme
+package com.android.theme
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme

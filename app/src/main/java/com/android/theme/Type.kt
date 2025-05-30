@@ -1,4 +1,4 @@
-package com.android.droidstartertemplatemvvm.ui.theme
+package com.android.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
